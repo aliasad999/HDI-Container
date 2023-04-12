@@ -4,7 +4,7 @@ version: 0.0.1
 
 modules:
   # ---------------- DATABASE DEPLOYER MODULE ------------------
-  - name: ordermonitoring-db-deployer
+  - name: otc-db-deployer
   # ------------------------------------------------------------
     type: hdb
     path: db
@@ -13,11 +13,11 @@ modules:
       memory: 256M
       disk-quota: 1024M
     requires:
-      - name: ordermonitoring-db
+      - name: otc-ordermonitoring-hdi-container
 
 resources:
   # ------------------- HDI CONTAINER SERVICE ------------------
-  - name: ordermonitoring-db
+  - name: otc-ordermonitoring-hdi-container
   # ------------------------------------------------------------
     type: com.sap.xs.hdi-container
     parameters:
