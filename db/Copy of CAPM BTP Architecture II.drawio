@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net" modified="2023-06-17T15:25:27.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="NzwKkiXXoXMEWmp6n30D" version="21.4.0" type="github">
+  <diagram name="Page-1" id="UA2SMMmVGVNOBhlaBBZV">
+    <mxGraphModel dx="1050" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FVL6WHH5OscSucubTprh-1" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyBpZD0iaGFuYSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTYgNTYiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojMGE2ZWQxO30uY2xzLTJ7ZmlsbDojMDUzYjcwO308L3N0eWxlPjwvZGVmcz48dGl0bGU+aGFuYTwvdGl0bGU+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNNTEsMjIuMzMyYTcuMjM2LDcuMjM2LDAsMCwwLTIuNjEzLTEuODJBMjIuNDA4LDIyLjQwOCwwLDAsMCwzOS41NjksMTlhMjIuNCwyMi40LDAsMCwwLTguODE3LDEuNTEyLDcuMjM2LDcuMjM2LDAsMCwwLTIuNjEzLDEuODIsMy43NzIsMy43NzIsMCwwLDAtMSwyLjUyMVY0Ni4wODFhMy42MzIsMy42MzIsMCwwLDAsMSwyLjUxNCw3LjEwNyw3LjEwNywwLDAsMCwyLjYwNywxLjgyMUEyMS4xNTQsMjEuMTU0LDAsMCwwLDM5LjU2OSw1MmEyMi40MDgsMjIuNDA4LDAsMCwwLDguODE4LTEuNTEyQTcuMjM2LDcuMjM2LDAsMCwwLDUxLDQ4LjY2OGEzLjkyNywzLjkyNywwLDAsMCwxLTIuNTIxVjI0Ljg1M0EzLjc3MiwzLjc3MiwwLDAsMCw1MSwyMi4zMzJaTTQyLjM2NSw0OS4xNzRjLS44OTMuMDg1LTEuODE4LjE0NC0yLjguMTQ0YTI4LjUzOCwyOC41MzgsMCwwLDEtMy40MDYtLjIxMVYzMC41NzJhMzMuMjYsMzMuMjYsMCwwLDAsMy40MDYuMTY1Yy45NzksMCwxLjktLjA1LDIuOC0uMTI2Wm03LjE2Ny0zLjAyN2MwLC43LS45MTYsMS40Ni0yLjQ1NCwyLjAzNWExNC4yOCwxNC4yOCwwLDAsMS0yLjIyOS42MjJWMzAuMjY3YTEzLjYyOCwxMy42MjgsMCwwLDAsNC42ODMtMS42NDNaTTQ3LjA3OCwyNi45ODVhMjEuNTcsMjEuNTcsMCwwLDEtNy41MDksMS4xMzYsMjEuNTA4LDIxLjUwOCwwLDAsMS03LjUtMS4xMzZjLTEuNTI0LS42NS0yLjQtMS40MTYtMi40LTIuMXYtLjAzMWMwLTEuMywzLjUyNi0zLjE3MSw5LjktMy4xNzEsNi40MTcsMCw5Ljk2MywxLjg3Niw5Ljk2MywzLjIwNUM0OS41MzIsMjUuNTc4LDQ4LjYzNiwyNi4zNDQsNDcuMDc4LDI2Ljk4NVoiLz48cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Ik0yNC4zLDI3Ljk4NkgxMi40MWE1LjM4Nyw1LjM4NywwLDAsMS0xLjY3NS0xMC41MTVsMi4zMDgtLjc1OUwxMi43ODEsMTQuM2E4LjEsOC4xLDAsMCwxLDEuNS01LjI4NEE2LjUsNi41LDAsMCwxLDE5LjEwOSw3YTYuMDU0LDYuMDU0LDAsMCwxLDUuODY0LDQuMDMzbDEuMzA3LDMuMjlMMjkuMzEsMTIuNWEzLjkyMiwzLjkyMiwwLDAsMSwyLjA0My0uNTkxLDMuOTg4LDMuOTg4LDAsMCwxLDMuOTE0LDMuMjQ5bC4xNTkuODQ1aDNjLS4wNDctLjQzOS0uMTA4LS45LS4yMS0xLjRBNi45NDEsNi45NDEsMCwwLDAsMjcuNzYyLDkuOTI4LDkuNDUyLDkuNDUyLDAsMCwwLDE5LjA1NSw0QzguODYzLDQuMjQyLDkuOCwxNC42MjEsOS44LDE0LjYyMUE4LjM4Nyw4LjM4NywwLDAsMCwxMi40MSwzMC45ODZIMjQuM1oiLz48L3N2Zz4=" parent="1" vertex="1">
+          <mxGeometry x="169" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-3" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyBpZD0iaGFuYSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNTYgNTYiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojMGE2ZWQxO30uY2xzLTJ7ZmlsbDojMDUzYjcwO308L3N0eWxlPjwvZGVmcz48dGl0bGU+aGFuYTwvdGl0bGU+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNNTEsMjIuMzMyYTcuMjM2LDcuMjM2LDAsMCwwLTIuNjEzLTEuODJBMjIuNDA4LDIyLjQwOCwwLDAsMCwzOS41NjksMTlhMjIuNCwyMi40LDAsMCwwLTguODE3LDEuNTEyLDcuMjM2LDcuMjM2LDAsMCwwLTIuNjEzLDEuODIsMy43NzIsMy43NzIsMCwwLDAtMSwyLjUyMVY0Ni4wODFhMy42MzIsMy42MzIsMCwwLDAsMSwyLjUxNCw3LjEwNyw3LjEwNywwLDAsMCwyLjYwNywxLjgyMUEyMS4xNTQsMjEuMTU0LDAsMCwwLDM5LjU2OSw1MmEyMi40MDgsMjIuNDA4LDAsMCwwLDguODE4LTEuNTEyQTcuMjM2LDcuMjM2LDAsMCwwLDUxLDQ4LjY2OGEzLjkyNywzLjkyNywwLDAsMCwxLTIuNTIxVjI0Ljg1M0EzLjc3MiwzLjc3MiwwLDAsMCw1MSwyMi4zMzJaTTQyLjM2NSw0OS4xNzRjLS44OTMuMDg1LTEuODE4LjE0NC0yLjguMTQ0YTI4LjUzOCwyOC41MzgsMCwwLDEtMy40MDYtLjIxMVYzMC41NzJhMzMuMjYsMzMuMjYsMCwwLDAsMy40MDYuMTY1Yy45NzksMCwxLjktLjA1LDIuOC0uMTI2Wm03LjE2Ny0zLjAyN2MwLC43LS45MTYsMS40Ni0yLjQ1NCwyLjAzNWExNC4yOCwxNC4yOCwwLDAsMS0yLjIyOS42MjJWMzAuMjY3YTEzLjYyOCwxMy42MjgsMCwwLDAsNC42ODMtMS42NDNaTTQ3LjA3OCwyNi45ODVhMjEuNTcsMjEuNTcsMCwwLDEtNy41MDksMS4xMzYsMjEuNTA4LDIxLjUwOCwwLDAsMS03LjUtMS4xMzZjLTEuNTI0LS42NS0yLjQtMS40MTYtMi40LTIuMXYtLjAzMWMwLTEuMywzLjUyNi0zLjE3MSw5LjktMy4xNzEsNi40MTcsMCw5Ljk2MywxLjg3Niw5Ljk2MywzLjIwNUM0OS41MzIsMjUuNTc4LDQ4LjYzNiwyNi4zNDQsNDcuMDc4LDI2Ljk4NVoiLz48cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Ik0yNC4zLDI3Ljk4NkgxMi40MWE1LjM4Nyw1LjM4NywwLDAsMS0xLjY3NS0xMC41MTVsMi4zMDgtLjc1OUwxMi43ODEsMTQuM2E4LjEsOC4xLDAsMCwxLDEuNS01LjI4NEE2LjUsNi41LDAsMCwxLDE5LjEwOSw3YTYuMDU0LDYuMDU0LDAsMCwxLDUuODY0LDQuMDMzbDEuMzA3LDMuMjlMMjkuMzEsMTIuNWEzLjkyMiwzLjkyMiwwLDAsMSwyLjA0My0uNTkxLDMuOTg4LDMuOTg4LDAsMCwxLDMuOTE0LDMuMjQ5bC4xNTkuODQ1aDNjLS4wNDctLjQzOS0uMTA4LS45LS4yMS0xLjRBNi45NDEsNi45NDEsMCwwLDAsMjcuNzYyLDkuOTI4LDkuNDUyLDkuNDUyLDAsMCwwLDE5LjA1NSw0QzguODYzLDQuMjQyLDkuOCwxNC42MjEsOS44LDE0LjYyMUE4LjM4Nyw4LjM4NywwLDAsMCwxMi40MSwzMC45ODZIMjQuM1oiLz48L3N2Zz4=" parent="1" vertex="1">
+          <mxGeometry x="560" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-6" value="SAP HDI Container for Staging Tables&amp;nbsp;&lt;br&gt;and Flow Graphs" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="142" y="630" width="225" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-7" value="SAP HDI Container for CAPM Related &lt;br&gt;Artificats" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="570" y="630" width="225" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="583.25" y="300" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-13" value="CAPM Middleware, data &lt;br&gt;from HDI&amp;nbsp;Cotainer" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="635" y="380" width="155" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-16" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://digitalmarketplace-sapcpprd.s3.eu-central-1.amazonaws.com/G23SWNPQLE14OYxkCY8KQw7Be4TZylan0mjMxsE8BPwNLXgAhaZ3I7i2jl_6Skxg.svg" parent="1" vertex="1">
+          <mxGeometry x="640" y="130" width="96" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-17" value="HTML5 application repository with &lt;br&gt;frontend static files" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="600" y="226" width="190" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-19" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.design.user;" parent="1" vertex="1">
+          <mxGeometry x="10" y="200" width="50" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-20" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.design.user;" parent="1" vertex="1">
+          <mxGeometry x="10" y="312" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-22" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.router;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="310" width="79" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-26" value="SAP Application &lt;br&gt;router / Entry point" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="200" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-27" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://digitalmarketplace-sapcpprd.s3.eu-central-1.amazonaws.com/JaBjV1yz-EKBhaVk30XOUc4wQ2WDzkwG1wpJGDd3T1hVVlp1hTCFcpsgIkOvhoVz.svg" parent="1" vertex="1">
+          <mxGeometry x="397" y="136.5" width="83" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.855;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FVL6WHH5OscSucubTprh-22" target="FVL6WHH5OscSucubTprh-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="303" y="130" as="sourcePoint" />
+            <mxPoint x="360" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FVL6WHH5OscSucubTprh-20" target="FVL6WHH5OscSucubTprh-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="140" as="sourcePoint" />
+            <mxPoint x="200" y="342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-32" value="SAP Cloud Portal Service" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="380" y="210" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="FVL6WHH5OscSucubTprh-22" target="FVL6WHH5OscSucubTprh-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="313" y="140" as="sourcePoint" />
+            <mxPoint x="407" y="142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FVL6WHH5OscSucubTprh-27" target="FVL6WHH5OscSucubTprh-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="313" y="140" as="sourcePoint" />
+            <mxPoint x="407" y="142" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FVL6WHH5OscSucubTprh-1" target="FVL6WHH5OscSucubTprh-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="278" y="170" as="sourcePoint" />
+            <mxPoint x="575" y="292" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FVL6WHH5OscSucubTprh-10" target="FVL6WHH5OscSucubTprh-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="500" as="sourcePoint" />
+            <mxPoint x="570" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-38" value="SAP BTP" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="340" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-43" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=https://digitalmarketplace-sapcpprd.s3.eu-central-1.amazonaws.com/qhOUIp9iQuuZD0CGAj8r2DME9MZRx7WhXS7efiK0J4ANcpnn__hC2WCzr63CS093.svg" parent="1" vertex="1">
+          <mxGeometry x="214.5" y="139.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="FVL6WHH5OscSucubTprh-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="230" as="sourcePoint" />
+            <mxPoint x="216" y="231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.424;exitY=0.974;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FVL6WHH5OscSucubTprh-43" target="FVL6WHH5OscSucubTprh-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="270" as="sourcePoint" />
+            <mxPoint x="226" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-47" value="XSUAA" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="280" y="179.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FVL6WHH5OscSucubTprh-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="740" height="640" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
